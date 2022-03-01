@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+body{
+    background-color: rgb(19, 19, 61);
+    text-align: center;
+    margin: 181px;
+    padding: 44px;
+}
+
+.container{
+    color: white;
+    margin: -133px;
+    padding: 1px;
+    flex-direction: row;
+    
+}
+.engineer{
+    font-family: 'Noto Serif', serif;
+    font-size: 42px;
+    padding: 3px;
+    color: aliceblue;
+
+}
+.image{
+    position: relative;
+    left: 194px;
+    border: black 3px solid;
+    width: fit-content;
+
+}
+.name{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 38px;
+    padding: -1px;
+}
+.gitid{
+    
+    color: rgb(245, 236, 236);
+}
